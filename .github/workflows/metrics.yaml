@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "chore: update readme"
+          SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROJECTS: "False"
