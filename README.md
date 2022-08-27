@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :octocat: I’m [@zz](https://github.com/holazz)
+**:octocat: I’m [@zz](https://github.com/holazz)**
 
 ---
 
