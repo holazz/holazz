@@ -10,6 +10,6 @@
 1. 🗣 Commented on [#9993](https://github.com/element-plus/element-plus/issues/9993) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
 2. 🗣 Commented on [#9993](https://github.com/element-plus/element-plus/issues/9993) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
 3. 🗣 Commented on [#9993](https://github.com/element-plus/element-plus/issues/9993) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-4. 🗣 Commented on [#2729](https://github.com/prettier/prettier-vscode/issues/2729) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
-5. 🗣 Commented on [#9980](https://github.com/element-plus/element-plus/issues/9980) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+4. 🗣 Commented on [#9993](https://github.com/element-plus/element-plus/issues/9993) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+5. 🗣 Commented on [#9993](https://github.com/element-plus/element-plus/issues/9993) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
 <!--END_SECTION:activity-->
