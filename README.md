@@ -7,9 +7,9 @@
 **:zap: Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10186](https://github.com/element-plus/element-plus/issues/10186) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-2. 💪 Opened PR [#10669](https://github.com/element-plus/element-plus/pull/10669) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-3. 🎉 Merged PR [#10641](https://github.com/element-plus/element-plus/pull/10641) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-4. 💪 Opened PR [#10606](https://github.com/element-plus/element-plus/pull/10606) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-5. ❗️ Closed issue [#10605](https://github.com/element-plus/element-plus/issues/10605) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+1. ❗️ Closed issue [#10619](https://github.com/element-plus/element-plus/issues/10619) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+2. 🎉 Merged PR [#10633](https://github.com/element-plus/element-plus/pull/10633) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+3. ❗️ Closed issue [#10664](https://github.com/element-plus/element-plus/issues/10664) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+4. 🎉 Merged PR [#10666](https://github.com/element-plus/element-plus/pull/10666) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+5. 🗣 Commented on [#10606](https://github.com/element-plus/element-plus/issues/10606) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
 <!--END_SECTION:activity-->
